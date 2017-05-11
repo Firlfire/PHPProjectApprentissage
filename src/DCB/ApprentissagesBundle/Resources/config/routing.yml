@@ -1,0 +1,3 @@
+dcb_apprentissages_homepage:
+    path:     /
+    defaults: { _controller: DCBApprentissagesBundle:Default:index }

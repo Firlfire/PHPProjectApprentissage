@@ -1,0 +1,4 @@
+services:
+#    dcb_apprentissages.example:
+#        class: DCB\ApprentissagesBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
